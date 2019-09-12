@@ -1,2 +1,2 @@
 # gamesApp
-Aplicação feita com Spring
+Aplicação feita com Spring Framework e conexão com banco MySql
